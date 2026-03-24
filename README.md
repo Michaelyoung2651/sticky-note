@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
+<img width="1240" height="600" alt="主界面" src="https://github.com/user-attachments/assets/b436c4dd-c202-4100-9209-7b8d9d4dc485" />
 
 ## 功能特性
 
